@@ -1,2 +1,2 @@
-# www.tiendastore
+# www.CalzadosStore.com
 zapatos.com
